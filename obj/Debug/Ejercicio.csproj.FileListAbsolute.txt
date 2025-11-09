@@ -1,0 +1,8 @@
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\PC\Downloads\EJERCICIO\Ejercicio\obj\Debug\Ejercicio.exe.config
